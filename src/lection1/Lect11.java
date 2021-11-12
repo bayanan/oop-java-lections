@@ -29,7 +29,7 @@ public class Lect11 {
         System.out.println(p2.toString());
     }
 }
-
+Jokx = na pol lejat', otjim 50 raz na dnyu;
 class Person implements Cloneable { //Podkljucajem k klassu interfejs "Cloneable", ctoby mozno bylo peregruzit' standartnyj metod "clone"
     // (primerno kak peregruzka metodov "__add__" i t.p, v Python)
     private String name = "No Name"; //Peremennyje so znacenijami po umolcaniju
